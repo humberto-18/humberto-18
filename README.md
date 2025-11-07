@@ -1,18 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=Birunthaban)
 
-### Hi there 👋 I'm Humberto Cisneros
+### Hola 👋 Soy Humberto Cisneros
 
-I am a fifth-year systems engineering student at the National University of Engineering, and I am also taking a Python and web systems course.
+Soy estudiante de quinto año de ingeniería de sistemas en la Universidad Nacional de Ingeniería, y también estoy tomando un curso de Python y sistemas web.
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
-
-## My Skills Include
-
+- ⚡ **Dato curioso:** Creo en la *Teoría del Caos*: Incluso en entornos impredecibles con rarezas e irregularidades aparentemente aleatorias, existe un patrón predecible y          sensato que no se ve al principio.
+- - 🔭 Actualmente estoy estudiando:
+  - - Desarrollo de Aplicaciones Móviles
+    - - Desarrollo de Aplicaciones Web
+- - :bulb: Me interesan todas las cosas relacionadas con datos:
+  - **Big Data, Cloud, Aprendizaje Automático y Ciencia de Datos**
+- - 💬 Háblame sobre el Espacio, Filosofía, Ciencia, cualquier cosa que te interese.## Mis Habilidades Incluyen
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
